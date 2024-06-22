@@ -7,7 +7,7 @@ const Header = () => {
         <div className="flexCenter paddings innerWidth h-container">
         {  /*logo */}
 
-            <img src="./logo.png " alt="logo " width={100} />
+            <img src="./logo.png" alt="logo" width={100} />
 
             <div className="flexCenter h-menu">
                 <a href="">Residencies </a>
@@ -18,9 +18,7 @@ const Header = () => {
                 </button>
                 <a href="">Get Started </a>
                 
-                <button className="button">
-                  <a href=""> Login </a>
-                </button>
+               
                 
 
 
